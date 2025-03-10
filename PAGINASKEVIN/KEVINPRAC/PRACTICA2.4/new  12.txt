@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gu&iacute;a Tur&iacute;stica de Orizaba, Veracruz</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+            text-align: center;
+        }
+        header {
+            background-color: #004d40;
+            color: white;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        img {
+            width: 100%;
+            border-radius: 8px;
+        }
+        .cta {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: #00796b;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .section {
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Descubre la Magia de Orizaba, Veracruz</h1>
+        <p>Sum&eacute;rgete en la riqueza cultural, natural e hist&oacute;rica de esta joya veracruzana</p>
+    </header>
+    <div class="container">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Palacio_de_Hierro_Orizaba_2012.jpg" alt="Orizaba Veracruz">
+        <h2>Explora los mejores lugares tur&iacute;sticos</h2>
+        <p>Desde el majestuoso Pico de Orizaba hasta el hermoso telef&eacute;rico y el paseo del r&iacute;o, descubre los rincones m&aacute;s fascinantes de esta incre&iacute;ble ciudad.</p>
+        <a href="#" class="cta">Descarga la Gu&iacute;a Gratis</a>
+    </div>
+    <div class="container section">
+        <h2>&iquest;Por qu&eacute; visitar Orizaba?</h2>
+        <p>Orizaba es un destino que lo tiene todo: historia, naturaleza, aventura y cultura. Camina por sus calles empedradas, conoce su impresionante arquitectura y d&eacute;jate sorprender por sus tradiciones.</p>
+    </div>
+    <div class="container section">
+        <h2>Gastronom&iacute;a Local</h2>
+        <p>No puedes irte sin probar los deliciosos tamales de elote, el chilposo o una tradicional bomba de caf&eacute; en alguna de sus encantadoras cafeter&iacute;as.</p>
+    </div>
+    <div class="container section">
+        <h2>Aventura y Naturaleza</h2>
+        <p>Si eres amante de la aventura, el Ca&ntilde;&oacute;n de la Carbonera y el Parque Nacional Pico de Orizaba te esperan con paisajes inigualables y actividades al aire libre.</p>
+    </div>
+    <div class="container section">
+        <h2>Eventos y Festividades</h2>
+        <p>Desde la Feria Expori hasta las coloridas festividades de D&iacute;a de Muertos, Orizaba es un destino lleno de vida y tradici&oacute;n durante todo el a&ntilde;o.</p>
+    </div>
+    <div class="container section">
+        <a href="#" class="cta">Descarga la Gu&iacute;a Completa y Planifica tu Viaje</a>
+    </div>
+</body>
+</html>
